@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TutoringPortal" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\mnewbill\\Documents\\GitLocalRepo\\tutoring-app\\APIs\\MaddieAndMatt\.TutoringPortal\.APIs\.Teachers\\MaddieAndMatt\.TutoringPortal\.APIs\.Teachers\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
